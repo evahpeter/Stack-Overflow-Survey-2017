@@ -4,6 +4,8 @@ This project is titled 'A Data Science Blog Post'.
 
 The [Stack Overflow 2017 survey] https://www.kaggle.com/stackoverflow/so-survey-2017 data was used here in order to glean some insight into professional developers; who they are and what they use.
 
+Find a Medium post on this at: https://medium.com/@evahpeter/28d5dcddc882
+
 ### Table of Contents
 
 1. [Installation](#installation)
