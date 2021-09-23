@@ -29,7 +29,7 @@ This can be found at https://www.kaggle.com/stackoverflow/so-survey-2017
 In this notebook, I posed a series of questions related to the gathered data:
 1. Countries with the most active developers using StackOverflow
 2. Job and career satisfaction for most developers on StackOverflow
-3. The most frequent languages, technologies and technologies used by professionals
+3. The most frequent languages, technologies and methodologies used by professionals
 
 I found out the following:
 * The most active stackOverflow users are professional developers based in the United States. India comes in at a distant second closely followed by the UK, Germany, Canada nad France in that order. The data shows the developers are mostly based in first-world/western countries.
